@@ -1,0 +1,4 @@
+zxing4shop
+==========
+
+zxingforshop
